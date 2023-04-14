@@ -1,4 +1,4 @@
-package com.example.tigerwallpaper
+package com.example.tigerwalpaper
 
 import io.flutter.embedding.android.FlutterActivity
 

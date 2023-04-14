@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tigerwallpaper">
+    package="com.example.tigerwalpaper">
    <application
-        android:label="tigerwallpaper"
+        android:label="tigerwalpaper"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
